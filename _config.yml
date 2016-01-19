@@ -7,13 +7,13 @@ paginate: 5
 gems: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://biomadeira.github.io/vitae
+url: http://www.peterskaronis.com/cv
 author: Fábio Madeira
 
 # edit this section with your information
 # biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: /vitae/
+baseurl: /cv
 title: Chris Turner's Resume
 name: Chris Turner
 email: christurner@me.com
