@@ -8,22 +8,22 @@ gems: [jekyll-paginate]
 port: 4000
 safe: true
 url: http://www.peterskaronis.com/cv/
-author: Fábio Madeira
+author: Peter Skaronis
 
 # edit this section with your information
 # biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: 
-title: Chris Turner's Resume
-name: Chris Turner
-email: christurner@me.com
-email_full: mailto:youremail@me.com
-website: github.io/sustain
-website_full: https://biomadeira.github.io/sustain
-github: trending
-twitter: twitter
-tel: +44 0000 000000
-tel_full: tel:+440000000000
+title: Peter Skaronis Resume
+name: Peter Skaronis
+email: pskaronis@protonmail.com
+email_full: mailto:pskaronis@protonmail.com
+website: github.io/techimpossible
+website_full: http://www.peterskaronis.com
+github: techimpossible
+twitter: Peter_Skaronis
+tel: +1 347 234 5428
+tel_full: tel:+13472345428
 google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
 address: 44 Perth Street
 postcode: EH3 5BL
