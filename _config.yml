@@ -29,7 +29,7 @@ address: 616 Corporate Way, ST 2-4460
 postcode: 10989
 city: Valley Cottage, NY
 country: USA
-google_analytics: UA-69300817-1
+google_analytics: UA-45619220-1
 
 # needed for travis-ci build
 exclude: [vendor]
