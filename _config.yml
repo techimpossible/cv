@@ -1,5 +1,5 @@
-highlighter: pygments
-markdown: rdiscount
+highlighter: rouge
+markdown: kramdown
 rdiscount:
   extensions: [smart]
 permalink: /:title.html
