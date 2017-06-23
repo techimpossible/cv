@@ -7,7 +7,7 @@ paginate: 5
 gems: [jekyll-paginate]
 port: 4000
 safe: true
-url: https://www.peterskaronis.com/cv/
+url: http://cv.peterskaronis.com/
 author: Peter Skaronis
 
 # edit this section with your information
